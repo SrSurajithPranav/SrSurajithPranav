@@ -1,3 +1,42 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 100%;
+  background-color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+.sidebar.hidden {
+  left: -250px;
+}
+
+.sidebar-header {
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.sidebar-header:hover {
+  background-color: #f5f5f5;
+}
+
+.sidebar-content {
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    left: 0;
+  }
+
+  .sidebar.hidden {
+    left: -100%;
+  }
+}
 /* Dark mode */
 .dark-mode {
   background-color: black;
