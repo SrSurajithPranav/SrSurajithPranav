@@ -1,3 +1,27 @@
+.sidebar.hidden {
+  left: -250px;
+  opacity: 0;
+}
+
+.sidebar.visible {
+  left: 0;
+  opacity: 1;
+}
+
+@keyframes sidebar-animation {
+  from {
+    left: -250px;
+    opacity: 0;
+  }
+  to {
+    left: 0;
+    opacity: 1;
+  }
+}
+
+.sidebar {
+  animation: sidebar-animation 0.3s ease-in-out;
+}
 .sidebar {
   position: fixed;
   top: 0;
