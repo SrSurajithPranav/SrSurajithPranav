@@ -1,8 +1,16 @@
+<div class="sidebar hidden">
+  <div class="sidebar-header">
+    <h2>About Me</h2>
+  </div>
+  <div class="sidebar-content">
+    <p>
+      Dedicated data enthusiast with a deep passion for analytics, armed with exceptional skills in Python, SQL, R, and a keen aptitude for data analysis. My commitment to unlocking the power of data to inform strategic decisions and tackle intricate challenges sets me apart. I am eager to channel my analytical prowess into high-impact projects, driving success through data-driven precision.
+    </p>
+  </div>
+</div>
 <head>
   <link rel="stylesheet" href="style.css" />
 </head>
-<h1 id="-about-me-">💫 About Me:</h1>
-<p>Dedicated data enthusiast with a deep passion for analytics, armed with exceptional skills in Python, SQL, R, and a keen aptitude for data analysis. My commitment to unlocking the power of data to inform strategic decisions and tackle intricate challenges sets me apart. I am eager to channel my analytical prowess into high-impact projects, driving success through data-driven precision.</p>
 <h2 id="-socials-">🌐 Socials:</h2>
 <p><a href="https://linkedin.com/in/surajith-pranav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/SrSurajithPranav"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white" alt="GitHub"></a>
