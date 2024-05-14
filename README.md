@@ -10,12 +10,7 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajith-pranav) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SrSurajithPranav) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ss8913) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ss8913/)
 
 Course Certifications
----------------------
-
-[![Oracle Machine Learning](https://img.shields.io/badge/Oracle%20Machine%20Learning-%23121011.svg?logo=oracle&logoColor=red)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7AAC4B0B9230C467980FC3B6D427CB36B0564F1A4FA3AF7D301FEAF20B32CCBA)
-
-[![Oracle Data Management](https://img.shields.io/badge/Oracle%20Data%20Management-%23121011.svg?logo=oracle&logoColor=red)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DA6890C6BCD4D8D7230E4562DDD9FC082663A996028B53AB90C0C7515CACC72F)
-
+--------------------
 [![AWS Academy Machine Learning](https://img.shields.io/badge/AWS%20Academy%20Machine%20Learning-%23232F3E.svg?logo=amazon-aws&logoColor=orange)](https://www.credly.com/go/3LrVbjsP)
 
 [![AWS Academy Data Analytics](https://img.shields.io/badge/AWS%20Academy%20Data%20Analytics-%23232F3E.svg?logo=amazon-aws&logoColor=orange)](https://www.credly.com/go/RfbNYEgc)
